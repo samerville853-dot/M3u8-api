@@ -1,0 +1,162 @@
+{
+  "Bein Sports": [
+    {
+      "id": "01",
+      "name": "Bein Sports 1 4K QA",
+      "url": "https://koragoal-proxy-m3u8.space/fetch?url=https%3A%2F%2Fbthkora.online%2Fm3u8%2Fbeinsports-1%2Findex.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "02",
+      "name": "Bein Sports 2 HD",
+      "url": "https://koragoal-proxy-m3u8.space/fetch?url=https%3A%2F%2Fbthkora.online%2Fm3u8%2Fbeinsports-2%2Findex.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "03",
+      "name": "Bein Sports 3 HD",
+      "url": "https://koragoal-proxy-m3u8.space/fetch?url=https%3A%2F%2Fbthkora.online%2Fm3u8%2Fbeinsports-3%2Findex.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "04",
+      "name": "Bein Sports 4 HD",
+      "url": "https://koragoal-proxy-m3u8.space/fetch?url=https%3A%2F%2Fbthkora.online%2Fm3u8%2Fbeinsports-4%2Findex.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "05",
+      "name": "Bein Sports 5 HD",
+      "url": "https://stb.blc2cdn.fyi/live/60044_.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "06",
+      "name": "Bein Sports 6 HD",
+      "url": "https://stb.blc2cdn.fyi/live/60045_.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "07",
+      "name": "Bein Sports 7 HD",
+      "url": "https://stb.blc2cdn.fyi/live/60046_.m3u8",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "08",
+      "name": "ALWAN Sports 1",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "09",
+      "name": "ALWAN Sports 2",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "10",
+      "name": "ALWAN Sports 3",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "11",
+      "name": "ALWAN Sports 4",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "12",
+      "name": "ALOSTORA Sports 1",
+      "url": "https://joaanksa.com/bein/Bassam1.php?action=stream&id=116900&cat=4524",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "13",
+      "name": "ALOSTORA Sports 2",
+      "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/qxCihAJ7uhaJmpiA3ybz3x1IHA7UT_Rt_OrAtjwd72Est-eo2GMyBGLfu8vIYTtxDgyMSCf3C8austkblgDd1w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "14",
+      "name": "ALOSTORA Sports 3",
+      "url": "https://joaanksa.com/bein/Bassam1.php?action=stream&id=116902&cat=4524",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "15",
+      "name": "ALOSTORA Sports 4",
+      "url": "https://joaanksa.com/bein/Bassam1.php?action=stream&id=116903&cat=4524",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    }
+  ],
+  "OSN": [
+    {
+      "id": "20",
+      "name": "YAHALA",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "21",
+      "name": "YAHALA BIL ARABI",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "22",
+      "name": "YAHALA AFLAM",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+      },
+    {
+      "id": "23",
+      "name": "Movies",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "24",
+      "name": "Action",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+      },
+    {
+      "id": "25",
+      "name": "Comedy",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "26",
+      "name": "CINEMA 1",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+      },
+    {
+      "id": "27",
+      "name": "CINEMA 2",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "28",
+      "name": "Alfa Musalsalat",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+      },
+      {
+      "id": "27",
+      "name": "Alfa Alyoum",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    },
+    {
+      "id": "28",
+      "name": "Alfa AFLAM",
+      "url": "",
+      "headers": { "User-Agent": "", "Referer": "", "Origin": "" }
+    }
+  ]
+}
